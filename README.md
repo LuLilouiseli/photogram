@@ -5,7 +5,8 @@ An instagram style photo sharing social network website.
 https://nameless-waters-96397.herokuapp.com/
 
 ## Design
-|--------------------|:---------:|
+| **specification** | **tools** |
+|-------------|:-----------:|
 |Frontend framework|React|
 |UI framework|Semantic UI|
 |Development environment|Node.js|
